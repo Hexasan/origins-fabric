@@ -107,7 +107,7 @@
   "power.origins.cat_vision.name": "Gece Avcısı",
   "power.origins.cat_vision.description": "Suda değilken karanlıkta biraz daha iyi görürsünüz.",
 
-  "power.origins.weak_arms.name": "Zayıf Kollar",
+  "power.origins.weak_arms.name": "Cılız Kollar",
   "power.origins.weak_arms.description": "Güç iksiri etkisi altında değilken yalnız en fazla 2 doğal taşa bitişik olan doğal taşları kırabilirsin.",
 
   "power.origins.scare_creepers.name": "Kedimsi Görünüş",
@@ -140,7 +140,7 @@
   "power.origins.extra_reach.name": "Uzun İnce",
   "power.origins.extra_reach.description": "Daha uzakta olan blok ve canlılara ulaşabilirsin.",
 
-  "power.origins.shulker_inventory.name": "İştifçi",
+  "power.origins.shulker_inventory.name": "İstifçi",
   "power.origins.shulker_inventory.description": "Ölsen bile korunan 9 ek envanter yuvasına sahipsin.",
 
   "power.origins.natural_armor.name": "Dayanıklı Deri",
@@ -182,12 +182,12 @@
   "key.origins.view_origin": "Originini Gör",
 
   "text.autoconfig.origins.title": "Origins Ayarları",
-  "text.autoconfig.origins.option.xOffset": "Ara Süre Göstergesinin X doğrultusundaki yeri",
-  "text.autoconfig.origins.option.yOffset": "Ara Süre Göstergesinin X doğrultusundaki yeri",
+  "text.autoconfig.origins.option.xOffset": "Bekleme Göstergesinin X doğrultusundaki yeri",
+  "text.autoconfig.origins.option.yOffset": "Bekleme Göstergesinin X doğrultusundaki yeri",
   "text.autoconfig.origins.option.phantomizedOverlayStrength": "Hayalet Formu Arayüz Görünürlüğü",
 
   "item.origins.orb_of_origin": "Origin Küresi",
-  "item.origins.orb_of_origin.layer_generic": "Yeni bir %s şeçmenizi sağlar.",
+  "item.origins.orb_of_origin.layer_generic": "Yeni bir %s seçmenizi sağlar.",
   "item.origins.orb_of_origin.layer_specific": "%1$sizi \"%2$s\"ye ayarlar.",
 
   "enchantment.origins.water_protection": "Su Koruması",
@@ -195,12 +195,12 @@
 
   "container.shulker_inventory_power": "Shulker Envanteri",
 
-  "origins.gui.select": "Şeç",
+  "origins.gui.select": "Seç",
   "origins.gui.close": "Kapat",
-  "origins.gui.choose": "Şeç",
-  "origins.gui.choose_origin.title": "%sini şeç.",
+  "origins.gui.choose": "Seç",
+  "origins.gui.choose_origin.title": "%sini seç.",
   "origins.gui.view_origin.title": "Bu senin %sin.",
-  "origins.gui.view_origin.empty": "Herhangi bir origine sahip olamazsın.",
+  "origins.gui.view_origin.empty": "Herhangi bir Origine sahip olamazsın.",
   "origins.gui.view_origin.not_installed": "Sunucuda Origins yüklü değil .",
   "origins.gui.impact.impact": "Etki",
   "origins.gui.impact.none": "Hiç",
@@ -234,8 +234,8 @@
   "commands.origin.layer_not_found": "Bilinmeyen katman: %s",
   "commands.origin.unregistered_in_layer": "%1$s Origin'i, %2$s katmanında kayıtlı değil!",
   "commands.origin.get.result": "%s şuna sahip %s: %s (%s)",
-  "commands.origin.gui.all": "%s oyuncu için şeçim GUI'si açıldı",
-  "commands.origin.gui.layer": "%1$s oyuncu için \"%2$s\" şeçim GUI'si açıldı",
+  "commands.origin.gui.all": "%s oyuncu için seçim GUI'si açıldı",
+  "commands.origin.gui.layer": "%1$s oyuncu için \"%2$s\" seçim GUI'si açıldı",
   "commands.origin.random.all": "%1$s hedef için %2$s katmandan rastgele bir origin atandı",
   "commands.origin.random.not_allowed": "%1$s katmanı rastgele originlere izin vermiyor!",
   "commands.origin.random.success.multiple": "%1$s hedef için %2$s katmanından rastgele bir origin atandı",
